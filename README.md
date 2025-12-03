@@ -4,7 +4,7 @@ Dataset used:
 New Plant Diseases Dataset (Kaggle)
 https://www.kaggle.com/datasets/vipooooool/new-plant-diseases-dataset/data
 
-🚀 Features
+ Features
 Multi-class classification (38 classes) using TensorFlow/Keras CNN.
 Accuracy visualization, confusion matrix, and evaluation metrics.
 Leaf disease severity estimation:
