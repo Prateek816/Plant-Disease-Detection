@@ -1,5 +1,5 @@
 # Plant-Disease-Detection
-A deep-learning system that classifies plant leaf images into 38 disease/healthy classes using a custom Convolutional Neural Network (CNN) and additionally estimates disease severity using image segmentation.
+A deep-learning system that classifies plant leaf images into 38 disease/healthy classes using a custom Convolutional Neural Network (CNN)
 Dataset used:
 New Plant Diseases Dataset (Kaggle)
 https://www.kaggle.com/datasets/vipooooool/new-plant-diseases-dataset/data
@@ -20,9 +20,7 @@ Trained model included (trained_model.h5) for quick testing.
 plant-disease-recognition/
 ├── train_model.py        # training script (CNN + evaluation)
 ├── model.py              # single-image classification
-├── website.py            # streamlit web application
-├── severity.py           # disease severity estimation (segmentation)
-├── trained_model.h5      # saved model
+├── website.py            # saved model
 ├── history.json          # training history
 ├── home_page.jpeg        # homepage image for Streamlit
 ├── data/
