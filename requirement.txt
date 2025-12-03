@@ -6,4 +6,3 @@ seaborn
 opencv-python
 scikit-learn
 streamlit
-pillow
